@@ -41,7 +41,7 @@
 | <img height="14" src="https://octicons-col.vercel.app/package/FF6600"> 3D modeling | Mostly for game assets — Unreal pipeline |
 | <img height="14" src="https://octicons-col.vercel.app/device-desktop/FF6600"> UI/UX design | Design first, then build it myself |
 | <img height="14" src="https://octicons-col.vercel.app/note/FF6600"> Guitar | Fingerstyle since childhood. Self-diagnosed gifted. |
-| <img height="14" src="https://octicons-col.vercel.app/sliders/FF6600"> Music production | FL Studio, retired. The beats were hard though. |
+| <img height="14" src="https://octicons-col.vercel.app/sliders/FF6600"> Music prod | FL Studio, retired. The beats were hard though. |
 | <img height="14" src="https://octicons-col.vercel.app/video/FF6600"> Video editing | Yes I'll color grade your cat video. No I won't. |
 | <img height="14" src="https://octicons-col.vercel.app/trophy/FF6600"> Gaming | 5,000+ hrs in a game I claim to be bad at |
 
