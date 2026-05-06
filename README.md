@@ -8,7 +8,6 @@
 ---
 
 ## Stack
-
 **Languages**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript)
@@ -33,8 +32,11 @@
 
 ---
 
-## Creative
+<table width="100%">
+<tr>
+<td valign="top">
 
+## Creative
 | craft &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | notes &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 |---|---|
 | <img height="14" src="https://octicons-col.vercel.app/paintbrush/FF6600"> Pixel art | Characters, tilesets, animations |
@@ -45,12 +47,21 @@
 | <img height="14" src="https://octicons-col.vercel.app/video/FF6600"> Video editing | Yes I'll color grade your cat video. No I won't. |
 | <img height="14" src="https://octicons-col.vercel.app/trophy/FF6600"> Gaming | 5,000+ hrs in a game I claim to be bad at |
 
+</td>
+<td valign="middle" align="center">
+
+<img src="./OrangeWarrior_yurekadev.svg" alt="AIO INDIE" />
+<br>
+<a href="https://pixel.yureka.dev">pixel.yureka.dev</a>
+
+</td>
+</tr>
+</table>
+
 ---
 
 <div align="center">
-
 <img height="14" src="https://octicons-col.vercel.app/mail/FF6600"> yurekavoid@gmail.com · socials media? this 🥔 butter than that.
 
 [fab.com/sellers/Yureka](https://www.fab.com/sellers/Yureka) &nbsp;·&nbsp; [yureka.dev](https://yureka.dev) &nbsp;·&nbsp; [pixel.yureka.dev](https://pixel.yureka.dev)
-
 </div>
