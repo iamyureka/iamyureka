@@ -1,67 +1,27 @@
-<!-- Header -->
 <div align="center">
+
 <img src="./header.svg" alt="AIO INDIE" />
-<br>
+
 <p><em>Developer · Pixel Artist · 3D Artist · Music Prod · UI/UX · Content Creator · Musician</em></p>
-</div>
 
----
+<a href="https://pixel.yureka.dev"><img src="./OrangeWarrior_yurekadev.svg" width="32%" alt="Orange Warrior" /></a>
+<img src="./hud/stats.svg" width="64%" alt="Character stats" />
 
-## Stack
-**Languages**
+<br><br>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python)
-![C++](https://img.shields.io/badge/C++-1a1a1a?style=flat-square&logo=cplusplus)
-![Rust](https://img.shields.io/badge/Rust-1a1a1a?style=flat-square&logo=rust)
-![GLSL](https://img.shields.io/badge/GLSL%2FHLSL-1a1a1a?style=flat-square&logo=opengl)
+<img src="./hud/inventory.svg" width="100%" alt="Inventory: C++, Unreal, TypeScript, JavaScript, Rust, Python, shaders, React, Next.js, Node.js, Three.js, Flutter, Tailwind, Postgres, Docker, Linux" />
 
-**Frameworks & Tools**
+<br><br>
 
-![React](https://img.shields.io/badge/React-1a1a1a?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-1a1a1a?style=flat-square&logo=nextdotjs)
-![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&logo=nodedotjs)
-![Three.js](https://img.shields.io/badge/Three.js-1a1a1a?style=flat-square&logo=threedotjs)
-![Flutter](https://img.shields.io/badge/Flutter-1a1a1a?style=flat-square&logo=flutter)
-![Tailwind](https://img.shields.io/badge/Tailwind-1a1a1a?style=flat-square&logo=tailwindcss)
-![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql)
-![Unreal Engine](https://img.shields.io/badge/Unreal-1a1a1a?style=flat-square&logo=unrealengine)
-![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=flat-square&logo=linux)
+<img src="./hud/quests.svg" width="100%" alt="Quest log" />
 
----
+<br><br>
 
-<table width="100%">
-<tr>
-<td valign="top">
+<a href="https://yureka.dev"><img src="./hud/btn-start.svg" alt="yureka.dev" /></a>
+<a href="https://www.fab.com/sellers/Yureka"><img src="./hud/btn-fab.svg" alt="Fab store" /></a>
+<a href="https://pixel.yureka.dev"><img src="./hud/btn-pixel.svg" alt="pixel.yureka.dev" /></a>
+<a href="mailto:yurekavoid@gmail.com"><img src="./hud/btn-mail.svg" alt="Mail" /></a>
 
-## Creative
-| craft &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | notes &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
-|---|---|
-| <img height="14" src="https://octicons-col.vercel.app/paintbrush/FF6600"> Pixel art | Characters, tilesets, animations |
-| <img height="14" src="https://octicons-col.vercel.app/package/FF6600"> 3D modeling | Mostly for game assets — Unreal pipeline |
-| <img height="14" src="https://octicons-col.vercel.app/device-desktop/FF6600"> UI/UX design | Design first, then build it myself |
-| <img height="14" src="https://octicons-col.vercel.app/note/FF6600"> Guitar | Fingerstyle since childhood. Self-diagnosed gifted. |
-| <img height="14" src="https://octicons-col.vercel.app/sliders/FF6600"> Music prod | FL Studio, retired. The beats were hard though. |
-| <img height="14" src="https://octicons-col.vercel.app/video/FF6600"> Video editing | Yes I'll color grade your cat video. No I won't. |
-| <img height="14" src="https://octicons-col.vercel.app/trophy/FF6600"> Gaming | 5,000+ hrs in a game I claim to be bad at |
+<sub>socials media? this 🥔 butter than that.</sub>
 
-</td>
-<td valign="middle" align="center">
-
-<img src="./OrangeWarrior_yurekadev.svg" alt="AIO INDIE" />
-<br>
-<a href="https://pixel.yureka.dev">pixel.yureka.dev</a>
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-<img height="14" src="https://octicons-col.vercel.app/mail/FF6600"> yurekavoid@gmail.com · socials media? this 🥔 butter than that.
-
-[fab.com/sellers/Yureka](https://www.fab.com/sellers/Yureka) &nbsp;·&nbsp; [yureka.dev](https://yureka.dev) &nbsp;·&nbsp; [pixel.yureka.dev](https://pixel.yureka.dev)
 </div>
