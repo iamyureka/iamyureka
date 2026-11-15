@@ -7,15 +7,9 @@
 <a href="https://pixel.yureka.dev"><img src="./OrangeWarrior_yurekadev.svg" width="32%" alt="Orange Warrior" /></a>
 <img src="./hud/stats.svg" width="64%" alt="Character stats" />
 
-<br><br>
+<p><img src="./hud/inventory.svg" width="100%" alt="Inventory: C++, Unreal, TypeScript, JavaScript, Rust, Python, shaders, React, Next.js, Node.js, Three.js, Flutter, Tailwind, Postgres, Docker, Linux" /></p>
 
-<img src="./hud/inventory.svg" width="100%" alt="Inventory: C++, Unreal, TypeScript, JavaScript, Rust, Python, shaders, React, Next.js, Node.js, Three.js, Flutter, Tailwind, Postgres, Docker, Linux" />
-
-<br><br>
-
-<img src="./hud/quests.svg" width="100%" alt="Quest log" />
-
-<br><br>
+<p><img src="./hud/quests.svg" width="100%" alt="Quest log" /></p>
 
 <a href="https://yureka.dev"><img src="./hud/btn-start.svg" alt="yureka.dev" /></a>
 <a href="https://www.fab.com/sellers/Yureka"><img src="./hud/btn-fab.svg" alt="Fab store" /></a>
